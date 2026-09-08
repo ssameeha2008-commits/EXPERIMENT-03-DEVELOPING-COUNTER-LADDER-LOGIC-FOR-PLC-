@@ -71,6 +71,7 @@ Test the counters with the physical push buttons and observe the LEDs or other o
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/ac3a2d43-8160-4f57-adbe-1915d426f983" />
 <img width="1907" height="1018" alt="image" src="https://github.com/user-attachments/assets/3ecc43a7-58ec-4035-be60-06c1199c27b9" />
 <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/7d4e9b00-f4c8-4429-bd8d-0f64fc5f458f" />
+
 ### UP COUNTER
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/852e08a2-eba1-4798-b5a9-adc39c53bae9" />
 <img width="1504" height="155" alt="image" src="https://github.com/user-attachments/assets/0a3071ea-e32b-4deb-9272-0c8bb92c14a5" />
