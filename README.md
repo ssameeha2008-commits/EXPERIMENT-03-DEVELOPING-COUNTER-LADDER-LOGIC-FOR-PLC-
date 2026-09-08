@@ -63,29 +63,40 @@ Download and Execute:
 Download the ladder logic program to the PLC if available and run it.
 Test the counters with the physical push buttons and observe the LEDs or other output devices.
 ### Outputs:
-Up Counter (CTU): The output LED or indicator should activate when the preset count (e.g., 10) is reached.
-<img width="1153" height="611" alt="image" src="https://github.com/user-attachments/assets/4767e796-0d4c-4ab0-9cf4-eeae5f0a7e02" />
-<img width="1041" height="556" alt="image" src="https://github.com/user-attachments/assets/9cceab97-5dc7-43ff-8433-b9f36c7f761e" />
-<img width="1033" height="555" alt="image" src="https://github.com/user-attachments/assets/9fab60f2-2972-4e73-91a6-e2f5f9ce42dc" />
+### Simulation Screenshots:
+### COUNTER
+<img width="1222" height="647" alt="image" src="https://github.com/user-attachments/assets/41047a06-d7c6-45a9-8cc8-313e678eae0c" />
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/d4e5ea63-5b00-4404-91e5-e90f20b86872" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/b02fd5c1-2489-434a-b018-286eb5605ecb" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/ac3a2d43-8160-4f57-adbe-1915d426f983" />
+<img width="1907" height="1018" alt="image" src="https://github.com/user-attachments/assets/3ecc43a7-58ec-4035-be60-06c1199c27b9" />
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/7d4e9b00-f4c8-4429-bd8d-0f64fc5f458f" />
+### UP COUNTER
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/852e08a2-eba1-4798-b5a9-adc39c53bae9" />
+<img width="1504" height="155" alt="image" src="https://github.com/user-attachments/assets/0a3071ea-e32b-4deb-9272-0c8bb92c14a5" />
+<img width="1501" height="200" alt="image" src="https://github.com/user-attachments/assets/4364a4d7-7d12-472b-8eca-2b2616196b5f" />
+<img width="1500" height="250" alt="image" src="https://github.com/user-attachments/assets/74a80122-f37c-4076-acd2-319fcea1015d" />
 
+### DOWN COUNTER
+<img width="1463" height="647" alt="image" src="https://github.com/user-attachments/assets/3e1385a4-6a64-4841-a4eb-03a384f772ed" />
+<img width="1351" height="375" alt="image" src="https://github.com/user-attachments/assets/66b1e8da-9e7d-400f-9ef0-4fce60080614" />
+<img width="1502" height="229" alt="image" src="https://github.com/user-attachments/assets/19cd4422-ed01-4599-84fe-8dafcd817253" />
+<img width="1504" height="339" alt="image" src="https://github.com/user-attachments/assets/ad08de71-987d-4350-83f6-75ee9390ca17" />
+<img width="1509" height="312" alt="image" src="https://github.com/user-attachments/assets/7aa93082-030f-4acd-bd69-69927de7c8f8" />
 
-Down Counter (CTD): The output should activate when the count reaches zero.
-<img width="1033" height="563" alt="image" src="https://github.com/user-attachments/assets/89ed77b1-f896-4969-a871-f0b3ea2a83e5" />
-<img width="1040" height="535" alt="image" src="https://github.com/user-attachments/assets/a9deb273-602b-4b56-9786-1ca7b6cb0a99" />
-<img width="1042" height="547" alt="image" src="https://github.com/user-attachments/assets/a74ab186-b063-43a1-a0c4-fd7a27f3bb66" />
-<img width="1035" height="557" alt="image" src="https://github.com/user-attachments/assets/27a791a2-f200-4137-b499-7d6f7127b33f" />
-<img width="1037" height="553" alt="image" src="https://github.com/user-attachments/assets/1c3d51a3-a639-4db9-ada3-3a34727dcef1" />
+### UP/DOWN COUNTER - 1
+<img width="1606" height="651" alt="image" src="https://github.com/user-attachments/assets/f668b93f-4f63-45fb-9971-a7a2e8cb0008" />
+<img width="1406" height="548" alt="image" src="https://github.com/user-attachments/assets/fb65b5be-bd0f-4d26-8757-36f1ef730f82" />
+<img width="1505" height="220" alt="image" src="https://github.com/user-attachments/assets/e1ccfe50-80f6-43cb-8250-a6e8eb68bbb8" />
+<img width="1503" height="193" alt="image" src="https://github.com/user-attachments/assets/3dfe52d5-9a75-4468-92fd-0026294ba36e" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/e3c950ee-970a-4084-9e67-a6821a3e1ca0" />
+<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/8a828e0a-bc0c-44af-8fd0-31f0b69fbcab" />
 
+### UP/DOWN COUNTER - 2
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b77e80ee-0fb3-4d22-9739-67eba4404938" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/33af3e56-e77a-4a10-a0ab-68f845fb3fac" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/72dd043d-ec7b-4fc3-9f73-5656c1a5475a" />
 
-Up/Down Counter (CTUD): The output should activate when the count reaches the preset value or zero, depending on the inputs.
-<img width="1040" height="552" alt="image" src="https://github.com/user-attachments/assets/c4a39781-f37c-4714-be33-1ad6268abbf5" />
-<img width="1037" height="548" alt="image" src="https://github.com/user-attachments/assets/d95f2baa-7615-4634-a6bd-6a12f56cf98b" />
-<img width="1032" height="552" alt="image" src="https://github.com/user-attachments/assets/fbe434be-7885-4565-8325-393450497ea7" />
-<img width="1038" height="548" alt="image" src="https://github.com/user-attachments/assets/f4c9ebe4-3497-4c4c-b0f7-2f11ac35401b" />
-<img width="1037" height="552" alt="image" src="https://github.com/user-attachments/assets/111519af-3efd-407a-b772-d4da5e5d8613" />
-<img width="1036" height="556" alt="image" src="https://github.com/user-attachments/assets/6a5c33d0-2487-4b0f-8083-2e2245477907" />
-<img width="1038" height="558" alt="image" src="https://github.com/user-attachments/assets/54e13043-9942-4b03-9988-15225e9ae5dc" />
-<img width="1037" height="552" alt="image" src="https://github.com/user-attachments/assets/48007f95-a297-486c-9a9d-bb036c7663a2" />
 
 
 
